@@ -1,4 +1,4 @@
-<p align="center"><h1>🧠 很棒的 ChatGPT 提示</h1></p> 
+<p align="center"><h1>🧠 很棒的 ChatGPT Prompts 提示词</h1></p> 
 
 欢迎来到“Awesome ChatGPT Prompts”存储库！这是一组用于 ChatGPT 模型的提示示例。
 
