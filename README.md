@@ -10,11 +10,8 @@
 
 我们希望您发现这些提示很有用，并能从使用 ChatGPT 中获得乐趣！
 
-**[在 GitHub 上查看](https://github.com/f/awesome-chatgpt-prompts)** 
 
-**[在 Hugging Face 上查看](https://huggingface.co/datasets/fka/awesome-chatgpt -prompts/)** 
-
-**下载 ChatGPT 桌面应用程序**：**[macOS](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg)** / **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi)** / **[Linux](https://github .com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb)** 
+**下载 ChatGPT 桌面应用程序**：**[macOS](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg)** / **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi)** / [Linux](https://github .com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb)
 
 > ℹ️ **注意：** 有时，某些提示可能无法按您预期的那样工作，或者可能被AI拒绝了。请重试，开始一个新线程，或注销并重新登录。如果这些解决方案不起作用，请尝试使用您自己的句子重写提示，同时保持说明不变。
 
