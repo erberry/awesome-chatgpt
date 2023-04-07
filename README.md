@@ -1,7 +1,5 @@
 <p align="center"><h1>🧠 很棒的 ChatGPT 提示</h1></p> 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg )](https://github.com/sindresorhus/awesome) [![Steamship](https://raw.githubusercontent.com/steamship-core/python-client/main/badge.svg)](https:/ /www.steamship.com/build?utm_source=github&utm_medium=badge&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)
-
 欢迎来到“Awesome ChatGPT Prompts”存储库！这是一组用于 ChatGPT 模型的提示示例。
 
 [ChatGPT](https://chat.openai.com/chat) 模型是由 [OpenAI](https://openai.com) 训练的大型语言模型，能够生成类似人类的文本。通过向它提供提示，它可以生成继续对话或扩展给定提示的响应。
